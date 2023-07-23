@@ -1,0 +1,63 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-image: url(https://i.pinimg.com/originals/76/01/a3/7601a31e47247077856ed69b7b4fa124.gif);
+    background-size: cover;
+    background-position: center;
+}
+.card{
+    border: solid black;
+    background-color: rgb(245, 213, 255);
+    border-width: .2px;
+    height: 85vh;
+    width: 30vw;
+    background-image: url(https://i.gifer.com/YGg4.gif);
+}
+.box{
+    border: solid black;
+    background-color: rgb(175, 0, 146);
+    border-width: .2px;
+    height: 85vh;
+    width: 30vw;
+}
+.top{
+    height: 10%;
+    margin-top: 70px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'limelight';
+    font-size: 20px;
+    color: rgb(189, 0, 0);
+}
+.mid{
+    height: 40%;
+    margin: 10px;
+}
+.bottom{
+    height: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+.pic{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.btn{
+    margin-left: 160px;
+}
+.money{
+    width: 65%;
+}
+.moneypic{
+    height: 100%;
+    width: 100%;
+}
+.wish{
+    width: 25%;
+    font-family: "homemade apple";
+    font-weight: bold;
+    font-size: 12px;
+}
